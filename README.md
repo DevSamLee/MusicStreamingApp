@@ -6,3 +6,4 @@
 <a href="https://devsamlee.github.io/MusicStreamingApp/bananaMusic02.html">bananaMusic02.html</a><br>
 <a href="https://devsamlee.github.io/MusicStreamingApp/bananaMusic03.html">bananaMusic03.html</a><br>
 <a href="https://devsamlee.github.io/MusicStreamingApp/bananaMusic04.html">bananaMusic04.html</a><br>
+<a href="https://devsamlee.github.io/MusicStreamingApp/bananaMusic05.html">bananaMusic05.html</a><br>
