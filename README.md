@@ -29,7 +29,7 @@
 
 | Figma component |  
 |---------------------|
-| ![](./daliywork/component.jpg) |
+| ![](./daliywork/components.jpg) |
 
 <!-- CONTACT -->
 ## Contact
