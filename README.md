@@ -21,15 +21,15 @@
 ## Overview
 | Prototype |  
 |---------------------|
-| ![](.dailywork/bananaMusic.gif) |
+| ![](./daliywork/bananaMusic.gif) |
 
 | Figma overview |  
 |---------------------|
-| ![](.dailywork/20220511.png) |
+| ![](./daliywork/20220511.png) |
 
 | Figma component |  
 |---------------------|
-| ![](.dailywork/component.jpg) |
+| ![](./daliywork/component.jpg) |
 
 <!-- CONTACT -->
 ## Contact
